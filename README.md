@@ -226,7 +226,7 @@ index.ss (sightscript file)
 
 ```
 
-# more documetations are comming soon
-# creator Mike Karypidis
-# licenses Apache-2.0
-# github https://github.com/breathfunwithmindte/sightscript-v1.0
+- more documetations are comming soon
+- creator Mike Karypidis
+- licenses Apache-2.0
+- github https://github.com/breathfunwithmindte/sightscript-v1.0
